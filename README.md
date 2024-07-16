@@ -1,2 +1,2 @@
-# book recommendation system project using collabrative filtering and for deployment i will be use streamlit python library for creating GUI of my project 
+# book recommendation system project using collabrative filtering and  for creating GUI of my project i will be use streamlit python libraray
 
