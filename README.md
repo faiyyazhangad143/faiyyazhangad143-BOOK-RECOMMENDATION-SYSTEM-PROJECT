@@ -1,1 +1,1 @@
-# faiyyazhangad143-BOOK-RECOMMENDATION-SYSTEM-PROJECT
+# book recommendation system project using collabrative filtering and for deployment i will be use streamlit python library for creating GUI of my project 
